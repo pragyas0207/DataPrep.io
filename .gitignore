@@ -1,0 +1,6 @@
+frontend/node_modules
+backend/1.py
+backend/__pycache__
+__pycache__
+frontend.txt
+notes.txt
